@@ -1,0 +1,4 @@
+method,precision_at_3,ndcg_at_3
+A* Hybrid,0.611111111111111,1.0
+TF-IDF,0.5,1.0
+Weighted,0.611111111111111,1.0
